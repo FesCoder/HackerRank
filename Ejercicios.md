@@ -34,3 +34,6 @@ class Solution{
 // a + 2^0*b + 2^1*b
 // a + 2^0*b + 2^1*b + 2^2*b
 // a + 2^0*b + 2^1*b + 2^2*b + 2^3*b
+
+Link enlace de format number 
+https://javiergarciaescobedo.es/programacion-en-java/29-trucos/113-formato-de-numeros-monedas-y-porcentajes2#:~:text=La%20clase%20NumberFormat%20de%20Java,de%20moneda%20o%20valores%20porcentuales.
