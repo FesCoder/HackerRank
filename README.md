@@ -1,1 +1,3 @@
 # HackerRank
+
+Resoluciones de ejercicios.
